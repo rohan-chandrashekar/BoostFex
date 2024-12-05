@@ -2,8 +2,6 @@
 
 # 🌟 Detection of Bank Transaction Anomalies Using Gradient Boosted Federated Learning 🌟
 
-![License](https://img.shields.io/badge/license-MIT-brightgreen) ![Issues](https://img.shields.io/github/issues/rohan-chandrashekar/BoostFex)
-
 ---
 
 ## 📚 Abstract
