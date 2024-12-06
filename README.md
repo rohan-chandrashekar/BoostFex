@@ -6,10 +6,7 @@
 
 ## 📚 Abstract
 
-This repository hosts the official implementation of the research article:  
-**"Detection of Bank Transaction Anomalies using Gradient Boosted Federated Learning"**  
-Submitted to *IEEE Access*.  
-Authors: **Rohan Chandrashekar, Rithvik Grandhi, Rahul Roshan G, Shylaja SS**  
+Official implementation of 'Detection of Bank Transaction Anomalies using Gradient Boosted Federated Learning' (IEEE Access). Explore cutting-edge privacy-preserving techniques, scalable federated learning models, and advanced anomaly detection algorithms for financial transactions.
 
 ### 🛠️ Overview
 Fraudulent transactions pose critical challenges for the banking sector, affecting customer trust and financial security. In this research, we propose an innovative **Federated Learning framework** integrated with **Gradient Boosting algorithms** to enhance anomaly detection. Our approach ensures robust privacy-preserving mechanisms while delivering high accuracy on imbalanced datasets.
